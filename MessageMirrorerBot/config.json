@@ -1,0 +1,12 @@
+{
+  "Token": "TOKEN_PLACEHOLDER",
+  "CommandPrefix": "~",
+  "Rules": [
+    {
+      "SourceChannelId": 123,
+      "DestinationChannelIds": [
+        321
+      ]
+    }
+  ]
+}
