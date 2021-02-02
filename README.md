@@ -54,4 +54,4 @@ Brief overview of default commands that can trigger some bot action. They can be
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/i.ganchosov" target="_blank">If you want to support me in one way or another, buying me a coffee is a great way to show it.</a>
+<a href="https://www.buymeacoffee.com/i.ganchosov" target="_blank">☕ Buying me a coffee is great way to show support if you find this project useful.</a>
