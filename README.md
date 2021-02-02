@@ -51,3 +51,7 @@ Brief overview of default commands that can trigger some bot action. They can be
 * **channelDestinations** ->  shows a list of all ids of channels, to which messages from current one are being mirrored.
 * **addDestination destionationChannelId** -> adds new destination channel for messages from current one. In place of destionationChannelId you must write the id of the desired channel.
 * **removeDestination destionationChannelId** -> if the channel is configured as a destionation for message from current one, it will be removed from destinations list. In place of destionationChannelId you must write the id of the desired channel.
+
+## Support
+
+<a href="https://www.buymeacoffee.com/i.ganchosov" target="_blank">If you want to support me in one way or another, buying me a coffee is a great way to show it.</a>
